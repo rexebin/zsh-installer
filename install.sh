@@ -1,7 +1,5 @@
 
-sudo apt install python -y
-
-sudo apt install zsh -y
+sudo apt install zsh python wget -y
 chsh -s $(which zsh)
 
 wget -P ~/ https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
