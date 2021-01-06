@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/rex/.vim'
+let g:netrw_dirhist_2='/home/rex'
+let g:netrw_dirhist_1='/home/rex/.vim'
+let g:netrw_dirhist_0='/home/rex/.vim/colors'
+let g:netrw_dirhist_9='/home/rex/.vim'
+let g:netrw_dirhist_8='/home/rex'
+let g:netrw_dirhist_7='/home'
+let g:netrw_dirhist_6='/home/rex'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/home'
