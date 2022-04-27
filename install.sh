@@ -16,7 +16,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git 
 git clone https://github.com/supercrabtree/k 
 
-git clone git://github.com/wting/autojump.git
+git clone git://github.com:wting/autojump.git
 cd autojump
 ./install.py
 
