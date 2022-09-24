@@ -1,6 +1,6 @@
 # zsh-installer
 
-Install ZSH with a few commonly used plugins with a single script:
+Install ZSH themed with Powerlevel10k. A few commonly used plugins will also be installed.
 
 ```bash
 ./install.sh
